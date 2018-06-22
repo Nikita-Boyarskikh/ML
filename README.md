@@ -1,2 +1,2 @@
 # ML
-My attemps to learn ML (course by Salyp Bogdan)
+My attemps to learn ML and DNN
